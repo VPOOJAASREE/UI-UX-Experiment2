@@ -63,6 +63,3 @@ The mobile and web interface designs were successfully created using Gestalt pri
 
 
 
-
----
-
