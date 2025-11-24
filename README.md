@@ -8,55 +8,61 @@
 
 ```
 
-# Basic Mobile & Web Layout Design**
+---
 
-## **Aim**
+**Title:** Design a Basic Mobile & Web Layout for an Existing Case Study
 
-To design a basic **mobile and web layout** for an existing case study by applying **Gestalt principles**, integrating **UI elements & design patterns**, adding **interaction behaviors and usability principles**, and creating a **brand logo** using Canva.
+### **Aim**
+
+To design mobile and web layouts for a food-planning application named **TastyBites** by applying Gestalt principles, UI design patterns, usability principles, and branding elements including a custom logo created using Canva.
 
 ---
 
-## **Algorithm**
+### **Algorithm / Procedure**
 
-1. **Choose an existing case study** (Example: Hidden Objects – Treasure Hunt Game).
-2. **Analyze the user needs** and identify the purpose of the layout.
-3. **Apply Gestalt Principles** such as:
+1. Select a real-world case study — **Healthy Food App (TastyBites)**.
+2. Identify target users and define primary goals—quick meal planning, health tracking & food discovery.
+3. Apply Gestalt Principles:
 
-   * Proximity
-   * Similarity
-   * Continuity
-   * Closure
-   * Figure & Ground
-4. **Create a mobile layout** using appropriate UI elements (buttons, cards, icons, navigation).
-5. **Create a web layout** following responsive design patterns (grid, sections, hierarchy).
-6. **Use design patterns** such as:
+   * **Similarity** for consistent icons & color system
+   * **Proximity** to group related menu & actions
+   * **Continuity** for smooth UI flow
+   * **Figure-Ground** to highlight CTAs with clear spacing
+4. Create wireframes for both **Mobile** and **Web** screens (Home, Menu, Cart, Profile).
+5. Use standard UI components—Navbar, Cards, CTA Buttons, Search Bar, Filters.
+6. Apply usability principles:
 
-   * Hamburger Menu
-   * Card Layout
-   * CTA Button (Call-To-Action)
-   * Icon-based navigation
-7. **Develop interaction behaviors** (hover effects, tap feedback, navigation flow).
-8. **Add usability principles:**
+   * Easy navigation
+   * Minimal steps per task
+   * Strong visual hierarchy
+7. Design brand identity using Canva:
 
-   * Consistency
-   * Visibility of system status
-   * User control
-   * Simplicity
-9. **Design a brand logo using Canva** following color, typography, and theme guidelines.
-10. **Export the designs and add them to the GitHub repository**.
-11. **Write the documentation and upload the final PDF report.**
+   * Logo creation *(Healthy Food theme)*
+   * Color palette: **Green, Yellow, Fresh tones**
+   * Typography emphasizing clarity
+8. Export final layouts and include the logo within the UI screens.
 
 ---
 
-## **Output – Mobile Layout**
+### **Output**
 
-<img width="319" height="697" alt="lab 2" src="https://github.com/user-attachments/assets/9a270b10-17ae-42ee-8195-774f15f984e1" />
+![WhatsApp Image 2025-11-24 at 14 00 35_8d1a995d](https://github.com/user-attachments/assets/e3ea2225-2083-40e3-84f9-99adb8e91c4f)
 
 
 
-## **Result**
+**TASTYBITES – Healthy Food**
+— Modern, fresh, organic design representing salads & healthy lifestyle
 
-The basic **mobile and web layouts** were successfully designed by incorporating **Gestalt principles**, **UI patterns**, **interaction behaviors**, and **usability principles**. A **brand logo** was created using Canva and included in the design. All screens were documented and uploaded to the GitHub repository as required.
+---
+
+### **Result**
+
+The mobile and web interface designs were successfully created using Gestalt principles, usability guidelines, and brand consistency. A professional logo for **TastyBites** was developed in Canva and integrated into the UI layouts, achieving a clean and user-friendly design.
+
+---
+
+
+
 
 ---
 
